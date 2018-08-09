@@ -42,3 +42,8 @@ make
 #### Result:
 ![alt tag](https://github.com/rodrigogoncalves123/ComputerGraphics/blob/master/OpenGL-Beginning/img/Screenshot%20from%202018-08-07%2001-31-59.png)
 
+## Contributors
+
+* Rodrigo Gonçalves Daniel ([RodrigoGonçalvesDaniel](https://github.com/rodrigogoncalves123/)) rodrigodaniel@cc.ci.ufpb.br
+
+>Created By **[RodrigoGonçalvesDaniel](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-daniel-9a2736110/)** 2018.
